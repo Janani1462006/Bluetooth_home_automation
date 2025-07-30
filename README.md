@@ -30,4 +30,16 @@ Send 3 → Fan ON (Green LED)
 Send 4 → Fan OFF
 Any other input will return an "Invalid Command" message.
 
+# Setup Instructions
+Connect components as shown in the diagram.
+Upload the code to the Arduino Uno.
+Open the Serial Monitor (set baud rate to 9600).
+Type 1, 2, 3, or 4 and press Enter to control devices.
+
+# Applications
+
+Basic home automation simulations
+Arduino learning projects
+Bluetooth control extension (future upgrade)
+
 # Created by M.Janani
