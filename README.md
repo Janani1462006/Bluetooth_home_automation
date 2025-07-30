@@ -5,7 +5,7 @@
 This is a simple simulation of a Home Automation System using an Arduino Uno. The system allows users to control two appliances — a Light and a Fan — via serial commands sent from the Serial Monitor.
 
 # Features
- 
+
  Control Light (Red LED)
  Control Fan (Green LED)
  Serial-based command interface
